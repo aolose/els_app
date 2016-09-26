@@ -1,0 +1,7 @@
+name: els_app
+description: App.
+dependencies:
+  flutter:
+    path: ../../software/flutter/packages/flutter
+  # flutter_gallery_assets:
+  crypto: any

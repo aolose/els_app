@@ -1,0 +1,11 @@
+name: app01
+uses-material-design: true
+assets:
+  - assets/1.jpg
+  - assets/user_card_bg.jpg
+  - assets/appbar/appbar_background_layer0.png
+  - assets/appbar/appbar_background_layer1.png
+  - assets/appbar/appbar_background_layer2.png
+  - assets/appbar/appbar_background_layer3.png
+  - assets/appbar/appbar_background_layer4.png
+  - assets/appbar/appbar_background_layer5.png
